@@ -1,0 +1,20 @@
+
+## numpy (technically, this is covered by matplotlib's deps) ##
+numpy
+
+## matplotlylib dependencies ##
+matplotlib
+
+## testing dependencies ##
+nose
+
+## ipython dependencies ##
+jinja2
+tornado
+pytz
+jsonschema
+ipython[all]
+
+## pandas deps for some matplotlib functionality ##
+pandas
+
