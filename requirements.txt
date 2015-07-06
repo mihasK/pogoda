@@ -13,6 +13,7 @@ jinja2
 tornado
 pytz
 jsonschema
+functools32
 ipython[all]
 
 ## pandas deps for some matplotlib functionality ##
